@@ -1,0 +1,3 @@
+Hello this is Fred.
+
+I've created this textfile because I think this is awesome feature to have multiple repositories. :)
